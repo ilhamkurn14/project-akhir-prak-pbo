@@ -8,10 +8,6 @@ package projekpraktikum;
 import java.sql.*;
 import javax.swing.JOptionPane; 
 
-/**
- *
- * @author bayutri
- */
 public class LoginModel {
     DBConnector connector = new DBConnector();
     boolean loginStatus = false;

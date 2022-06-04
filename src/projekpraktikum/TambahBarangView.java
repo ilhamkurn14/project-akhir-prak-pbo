@@ -10,10 +10,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author bayutri
- */
 public class TambahBarangView extends JFrame{
     JLabel lTitle = new JLabel("Tambah Barang");
     JLabel lNama = new JLabel("Nama");

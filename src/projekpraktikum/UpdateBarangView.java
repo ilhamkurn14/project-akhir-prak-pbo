@@ -9,10 +9,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
-/**
- *
- * @author bayutri
- */
+
 public class UpdateBarangView extends JFrame{
     JLabel lTitle = new JLabel("Update Barang");
     JLabel lNama = new JLabel("Nama");

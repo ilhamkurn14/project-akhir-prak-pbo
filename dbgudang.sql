@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 03 Jun 2022 pada 15.34
+-- Waktu pembuatan: 04 Jun 2022 pada 15.40
 -- Versi server: 10.4.21-MariaDB
 -- Versi PHP: 8.0.10
 
@@ -41,7 +41,7 @@ CREATE TABLE `barang` (
 --
 
 INSERT INTO `barang` (`id`, `nama`, `harga`, `gudang`, `stok`, `satuan`) VALUES
-(1, 'Beras Kitchen', 450000, 'Analog Mrican', 1, 'Karung'),
+(1, 'Beras Merah', 100000, 'Analog Mrican', 1, 'Karung'),
 (2, 'Gula', 9000, 'Analog Mrican', 20, 'Kg'),
 (3, 'Susu UHT Diamond', 15000, 'Analog Mrican', 30, 'Box'),
 (4, 'Susu Freshmilk Chimory', 15000, 'Analog Mrican', 50, 'Box'),
@@ -97,7 +97,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT untuk tabel `barang`
 --
 ALTER TABLE `barang`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT untuk tabel `users`

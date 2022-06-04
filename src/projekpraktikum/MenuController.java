@@ -8,10 +8,6 @@ package projekpraktikum;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author Bayu Tri Nugroho
- */
 public class MenuController {
     MenuView menuView;
     

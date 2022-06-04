@@ -8,10 +8,6 @@ package projekpraktikum;
 import java.sql.*;
 
 
-/**
- *
- * @author Bayu Tri Nugroho
- */
 public class DBConnector{
     private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DATABASE_NAME = "dbgudang";

@@ -13,10 +13,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JTable;
 
 
-/**
- *
- * @author bayutri
- */
 public class BarangController {
 
     public BarangController(BarangView barangView, BarangModel barangModel, MenuView menuView) {

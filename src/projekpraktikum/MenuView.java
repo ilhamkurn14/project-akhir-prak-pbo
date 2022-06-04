@@ -9,10 +9,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/**
- *
- * @author Bayu Tri Nugroho
- */
 public class MenuView extends JFrame{
 //    Label
     JLabel lTitle = new JLabel("Admin");

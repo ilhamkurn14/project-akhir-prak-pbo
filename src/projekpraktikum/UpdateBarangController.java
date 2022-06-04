@@ -8,10 +8,7 @@ package projekpraktikum;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
-/**
- *
- * @author bayutri
- */
+
 public class UpdateBarangController {
 
     public UpdateBarangController(String dataBarang[][], UpdateBarangView updateBarangView, DetailBarangModel detailBarangModel, MenuView menuView) {

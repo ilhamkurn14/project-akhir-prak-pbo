@@ -12,10 +12,6 @@ import javax.swing.JLabel;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Bayu Tri Nugroho
- */
 public class BarangView extends JFrame{
     
     JButton btnKembali = new JButton("Kembali");

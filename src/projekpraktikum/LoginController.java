@@ -7,10 +7,6 @@ package projekpraktikum;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author bayutri
- */
 public class LoginController {
     LoginView loginView;
 

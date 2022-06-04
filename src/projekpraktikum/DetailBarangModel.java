@@ -8,10 +8,7 @@ package projekpraktikum;
 import java.sql.*;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author bayutri
- */
+
 public class DetailBarangModel {
     int idBarang;
     DBConnector connector = new DBConnector();

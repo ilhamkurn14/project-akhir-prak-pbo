@@ -5,10 +5,6 @@
  */
 package projekpraktikum;
 
-/**
- *
- * @author bayutri
- */
 public class Main {
 
     /**

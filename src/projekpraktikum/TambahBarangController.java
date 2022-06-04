@@ -10,11 +10,6 @@ import java.awt.event.ActionListener;
 import java.util.regex.Pattern;
 import javax.swing.JOptionPane;
 
-
-/**
- *
- * @author bayutri
- */
 public class TambahBarangController {
     private Pattern pattern = Pattern.compile("-?\\d+(\\.\\d+)?");
     

@@ -10,11 +10,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-
-/**
- *
- * @author bayutri
- */
 public class LoginView extends JFrame{
     JLabel lTitle = new JLabel("Selamat Datang");
     JLabel lUsername = new JLabel("Username");

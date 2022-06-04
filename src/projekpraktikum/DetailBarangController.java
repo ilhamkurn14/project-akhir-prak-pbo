@@ -12,10 +12,6 @@ import java.awt.event.MouseEvent;
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
 
-/**
- *
- * @author bayutri
- */
 public class DetailBarangController {
     DetailBarangView detailBarangView;
     DetailBarangModel detailBarangModel;
